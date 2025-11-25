@@ -82,4 +82,55 @@ HospitalManagementSystem/ <br>
 <BR>
 <h4> 📸 Screenshots </h4>
 <BR>
-<img width="854" alt="image" src="https://github.com/user-attachments/assets/b6a6a753-efa6-46aa-adf0-fc3b49e3718e" />
+
+<img width="1703" height="974" alt="Image" src="https://github.com/user-attachments/assets/9556843b-3fd1-4dbf-874f-64a197f5ecc5" />
+<BR>
+<BR>
+<img width="1727" height="1040" alt="Image" src="https://github.com/user-attachments/assets/12c71833-9c98-4f13-9a59-a662313a63a3" />
+<BR>
+<BR>
+<img width="1351" height="400" alt="Image" src="https://github.com/user-attachments/assets/83568dc1-23b8-44e8-9243-90da356f2e26" />
+<BR>
+<BR>
+<img width="1514" height="693" alt="Image" src="https://github.com/user-attachments/assets/b66e04fa-f047-46f9-a170-2628d3c5e087" />
+<BR>
+<BR>
+<img width="1519" height="590" alt="Image" src="https://github.com/user-attachments/assets/574246cf-3cb1-42a5-847d-6e3c0236ef65" />
+<BR>
+<BR>
+
+<img width="1520" height="575" alt="Image" src="https://github.com/user-attachments/assets/194118bb-cb28-4fec-abff-b8ef69230553" />
+<BR>
+
+<img width="1528" height="537" alt="Image" src="https://github.com/user-attachments/assets/15f650aa-fcca-43d7-8f80-92cd769a8ee8" />
+<BR>
+<BR>
+<h4>🔧 Technical Implementation </h4><br>
+
+
+<h4>The application demonstrates: </h4>
+
+
+<h4>✅ MVC Architecture - Clean separation of concerns between model, view, and controller </h4>
+
+<h4>✅ Database Connectivity - Robust data persistence and retrieval operations </h4>
+
+<h4>✅ Multi-threading - Concurrent appointment scheduling and notification services </h4>
+
+<h4>✅ Exception Handling - Comprehensive error management with custom exceptions </h4>
+
+<h4>✅ GUI Integration - User-friendly web interface connected to Java backend </h4><br>
+
+
+<h4>🚀 Project Outcome </h4><br>
+<h4>The Hospital Management System proves that: </h4>
+
+<h4>✅ The application works as planned with all core functionalities operational </h4>
+
+<h4>✅ It is reliable and efficient for managing hospital operations</h4>
+
+<h4>✅ The architecture is scalable for future enhancements</h4>
+
+<h4>✅ The codebase is maintainable with clean, documented structure</h4>
+
+<h4>✅ It serves as a comprehensive example of full-stack Java development</h4>
